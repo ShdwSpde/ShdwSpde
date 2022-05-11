@@ -1,5 +1,4 @@
 # Hey Ya'll!
-![mikespade]()
 
 <p align="center">
   <img width="400" height="400" src="https://user-images.githubusercontent.com/93407223/167851934-239815c8-115e-4690-ae21-d357822eb916.png">
