@@ -8,19 +8,19 @@
 
 - 🔭 I’m currently working on [Single Board Studio](www.singleboardstudio.xyz)
 
-- 🌱 I’m currently learning **Industrialized IoT,Machine Learning, and Front-End Web Development**
+- 🌱 I’m currently learning **Industrialized IoT, Machine Learning,and Front-End Web Development**
 
 - 👯 I’m looking to collaborate on **improving food logistics**
 
-- 👨‍💻 All of my projects are available at [www.mspade.xyz](www.mspade.xyz)
+- 👨‍💻 All of my projects are available if you'd like to see my [portfolio](www.mspade.xyz)
 
-- 📝 I regularly write articles on [https://mspade.hashnode.dev/](https://mspade.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://mspade.hashnode.dev/)
 
 - 💬 Ask me about **single board computing, AWS, and web3**
 
-- 📫 How to reach me **mikespadeny@gmail.com**
+- 📫 You can reach me at **mikespadeny@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XkvK58jmueyVCBbSHzc_i4JJm8tlMJ0b/edit?usp=sharing&ouid=105555312527979987067&rtpof=true&sd=true](https://docs.google.com/document/d/1XkvK58jmueyVCBbSHzc_i4JJm8tlMJ0b/edit?usp=sharing&ouid=105555312527979987067&rtpof=true&sd=true)
+- 📄 Would you like to see my [Resume?](https://docs.google.com/document/d/1XkvK58jmueyVCBbSHzc_i4JJm8tlMJ0b/edit?usp=sharing&ouid=105555312527979987067&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I spent 10 months living in a CCC cabin with a woodfired stove and kerosene lamp in the woods of New Hampshire**
 
