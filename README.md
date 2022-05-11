@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrmikespade" target="blank"><img src="https://img.shields.io/twitter/follow/mrmikespade?logo=twitter&style=for-the-badge" alt="mrmikespade" /></a> </p>
 
-- 🔭 I’m working on [Single Board Studio](www.singleboardstudio.xyz)
+- 🔭 I’m working on [Single Board Studio](https://www.singleboardstudio.xyz)
 
 - 🌱 I’m currently learning **Industrialized IoT, Machine Learning, AWS Network Infractructure, and Front-End Web Development**
 
@@ -34,7 +34,7 @@
 <p align="left">
 <a href="https://twitter.com/mrmikespade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmikespade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mikespade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikespade/" height="30" width="40" /></a>
-<a href="https://instagram.com/mrmikespade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrmikespade" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.mikespade" target="blank"><img align="center" src="https://instagram.com/mr.mikespade" alt="mrmikespade" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mspade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mspade" height="30" width="40" /></a>
 </p>
 
