@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **improving food logistics**
 
-- 👨‍💻 All of my projects are available if you'd like to see my [portfolio](www.mspade.xyz)
+- 👨‍💻 All of my projects are available if you'd like to see my [portfolio](http://www.mspade.xyz)
 
 - 📝 I regularly write articles on [Hashnode](https://mspade.hashnode.dev/)
 
