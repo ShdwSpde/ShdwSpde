@@ -1,4 +1,6 @@
-# heythere
+#Hey Ya'll
+![u3APoQ1V_400x400](https://user-images.githubusercontent.com/93407223/167844693-f313b46d-bfd2-4552-9da2-b96c6b56cf18.jpg)
+
 <h1 align="center">Hi 👋, I'm Mike Spade</h1>
 <h3 align="center">Purpose Driven Software Engineer</h3>
 
