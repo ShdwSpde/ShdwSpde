@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrmikespade" target="blank"><img src="https://img.shields.io/twitter/follow/mrmikespade?logo=twitter&style=for-the-badge" alt="mrmikespade" /></a> </p>
 
-- 🔭 I’m currently working on [Single Board Studio](www.singleboardstudio.xyz)
+- 🔭 I’m working on [Single Board Studio](www.singleboardstudio.xyz)
 
-- 🌱 I’m currently learning **Industrialized IoT, Machine Learning,and Front-End Web Development**
+- 🌱 I’m currently learning **Industrialized IoT, Machine Learning, AWS Network Infractructure, and Front-End Web Development**
 
 - 👯 I’m looking to collaborate on **improving food logistics**
 
