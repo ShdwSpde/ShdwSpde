@@ -1,7 +1,7 @@
 # Hey Ya'll!
 
 <p align="center">
-  <img width="400" height="400" src="https://user-images.githubusercontent.com/93407223/167844693-f313b46d-bfd2-4552-9da2-b96c6b56cf18.jpg">
+  <img width="400" height="400" border="5, grooved, green"src="https://user-images.githubusercontent.com/93407223/167844693-f313b46d-bfd2-4552-9da2-b96c6b56cf18.jpg">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mike Spade</h1>
