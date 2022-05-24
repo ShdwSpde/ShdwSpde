@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="(https://i.ibb.co/K7h6jnc/Screen-Shot-2022-05-24-at-7-40-45-AM.png)">
+  <img src="https://i.ibb.co/K7h6jnc/Screen-Shot-2022-05-24-at-7-40-45-AM.png">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mike Spade</h1>
