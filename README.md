@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="400" height="400" src="https://user-images.githubusercontent.com/93407223/167853273-33aa87fc-5a56-46c9-85d1-c5aeeaedd1b8.png">
+  <img src="[https://user-images.githubusercontent.com/93407223/167853273-33aa87fc-5a56-46c9-85d1-c5aeeaedd1b8.png](https://i.ibb.co/K7h6jnc/Screen-Shot-2022-05-24-at-7-40-45-AM.png)">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mike Spade</h1>
