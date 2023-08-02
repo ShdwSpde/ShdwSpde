@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Industrialized IoT, Machine Learning, AWS Network Infractructure, and Front-End Web Development**
 
-- 👯 I’m looking to collaborate on **improving food safety, access and logistics**
+- 👯 I’m looking to collaborate on **using single board computers and sensors for environmental monitoring, and improving food safety, access and logistics**
 
 - 👨‍💻 All of my projects are available if you'd like to see my [portfolio](http://www.mspade.xyz)
 
