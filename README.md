@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.jpg" alt="Radical Imagination. Mike Spade, founder, Queens. A people's art is the genesis of their freedom. Claudia Jones." width="100%"></p>
+<p align="center"><img src="assets/banner.jpg" alt="Radical Imagination. Mike Spade, Founder & Creative Director. A people's art is the genesis of their freedom. Claudia Jones." width="100%"></p>
 
 I run **[Radical Imagination](https://radicalimagination.xyz)**, a cultural technology studio in Queens. We build places you can walk into, archives you can question, and machines you can take apart, all from primary sources: the scan, the register, the record. Every claim has a source, and every source gets a person checking it.
 
