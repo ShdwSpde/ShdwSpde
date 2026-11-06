@@ -13,19 +13,19 @@ I also teach. By day I lead teaching and learning at [The Knowledge House](https
 <td width="50%" valign="top">
 <a href="https://vr-cave-gallery.vercel.app/#hall"><img src="assets/paris-hall.gif" alt="Walking the Paris 1900 Hall" width="100%"></a>
 <p><b><a href="https://github.com/ShdwSpde/du-bois-paris-hall">Du Bois Does Data: the Paris 1900 Hall</a></b><br>
-Walk into the 1900 Exposition hall and stand in front of the data portraits W.E.B. Du Bois and his Atlanta University students drew. WebXR, in a browser or a headset.</p>
+Walk into the 1900 Exposition hall and stand in front of the data portraits W.E.B. Du Bois and his Atlanta University students drew. WebXR, in a browser or a headset.<br><a href="https://radicalimagination.xyz/demos/paris-hall.mp4">▶ Watch the demo</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://ida-b-wells-living-archive.vercel.app"><img src="assets/ida-archive.gif" alt="Asking the Ida B. Wells Living Archive a question" width="100%"></a>
 <p><b><a href="https://github.com/ShdwSpde/living-archives">Living Archives</a></b><br>
-Ask Ida B. Wells, Du Bois or Garvey a question and get their own words back, with the book and chapter. Every quotation is checked against its source before you see it.</p>
+Ask Ida B. Wells, Du Bois or Garvey a question and get their own words back, with the book and chapter. Every quotation is checked against its source before you see it.<br><a href="https://radicalimagination.xyz/demos/living-archives.mp4">▶ Watch the demo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://garvey.radicalimagination.xyz/sam"><img src="assets/garvey-sam.gif" alt="Searching the Marcus Garvey Living Archive" width="100%"></a>
 <p><b><a href="https://github.com/ShdwSpde/garvey">The Marcus Garvey Living Archive</a></b><br>
-Garvey's words, the movement's photographs and documents, and his 1921 recordings, searchable in one place. With Dr. Jewell Humphrey and the Black Star Archive.</p>
+Garvey's words, the movement's photographs and documents, and his 1921 recordings, searchable in one place. With Dr. Jewell Humphrey and the Black Star Archive.<br><a href="https://radicalimagination.xyz/demos/garvey.mp4">▶ Watch the demo</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://black-star-fleet.vercel.app"><img src="assets/fleet.gif" alt="The Black Star Line fleet and the Yarmouth" width="100%"></a>
@@ -42,7 +42,7 @@ The cost of U.S. immigration enforcement, followed through budgets, detention an
 <td width="50%" valign="top">
 <a href="https://spark.radicalimagination.xyz"><img src="assets/spark.gif" alt="Spark" width="100%"></a>
 <p><b><a href="https://github.com/ShdwSpde/spark-workshop-template">Spark</a></b><br>
-A Chief Agentic Officer: a team of AI agents, run through Claude Code, that keeps a studio's grants, curriculum, archives and reviews moving. Open template.</p>
+A Chief Agentic Officer: a team of AI agents, run through Claude Code, that keeps a studio's grants, curriculum, archives and reviews moving. Open template.<br><a href="https://radicalimagination.xyz/demos/spark.mp4">▶ Watch the demo</a></p>
 </td>
 </tr>
 </table>
