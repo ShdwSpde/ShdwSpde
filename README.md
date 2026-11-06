@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.jpg" alt="Radical Imagination. Mike Spade, Founder & Creative Director. A people's art is the genesis of their freedom. Claudia Jones." width="100%"></p>
 
-I'm Mike Spade. I run [Radical Imagination](https://radicalimagination.xyz), a cultural technology studio in Queens. We make VR rooms, searchable archives and games out of historical records, and we show where each piece of history comes from.
+I'm Mike Spade. I run [Radical Imagination](https://radicalimagination.xyz), a cultural technology studio in Queens. We make VR rooms, searchable archives and games out of historical records, and we show our sources.
 
 Recent work: Du Bois Does Data at the Oculus in the World Trade Center, with CUNY's Public Interest Technology Lab, for Juneteenth (June 19 to 21, 2026). [Legacy Lectures](https://radicalimagination.xyz/legacy-lectures/), a six-session course on Marcus Garvey with the Black Star Archive, fall 2026.
 
@@ -18,7 +18,7 @@ A walk-through model of the hall at the 1900 Paris Exposition where W.E.B. Du Bo
 <td width="50%" valign="top">
 <a href="https://ida-b-wells-living-archive.vercel.app"><img src="assets/ida-archive.gif" alt="Asking the Ida B. Wells Living Archive a question" width="100%"></a>
 <p><b><a href="https://github.com/ShdwSpde/living-archives">Living Archives</a></b><br>
-Ask Ida B. Wells, Du Bois or Garvey a question. The answer quotes their writing and names the book and chapter, and a checker compares each quote with the original text before it's shown.<br><a href="https://radicalimagination.xyz/demos/living-archives.mp4">Demo video</a></p>
+Ask Ida B. Wells, Du Bois or Garvey a question. The answer quotes their writing and names the book and chapter.<br><a href="https://radicalimagination.xyz/demos/living-archives.mp4">Demo video</a></p>
 </td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ Garvey's writing, the movement's photographs and documents, and his 1921 recordi
 <td width="50%" valign="top">
 <a href="https://black-star-fleet.vercel.app"><img src="assets/fleet.gif" alt="The Black Star Line fleet and the Yarmouth" width="100%"></a>
 <p><b><a href="https://black-star-fleet.vercel.app">The Replica Collection</a></b><br>
-Scale models of the Black Star Line's ships, built in code from period records. You can run them and take them apart, and each part lists its source.</p>
+Scale models of the Black Star Line's ships, built in code from period records. You can run them and take them apart.</p>
 </td>
 </tr>
 <tr>
