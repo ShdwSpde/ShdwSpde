@@ -1,47 +1,54 @@
-# Design For Good
+## Mike Spade
 
+I run **[Radical Imagination](https://radicalimagination.xyz)**, a cultural technology studio in Queens. We build places you can walk into, archives you can question, and machines you can take apart, all from primary sources: the scan, the register, the record. Every claim has a source, and every source gets a person checking it.
 
-<p align="center">
-  <img src="https://i.ibb.co/K7h6jnc/Screen-Shot-2022-05-24-at-7-40-45-AM.png">
-</p>
+I also teach. By day I lead teaching and learning at [The Knowledge House](https://theknowledgehouse.org) in the Bronx.
 
-<h1 align="center">Hi 👋, I'm Mike Spade</h1>
-<h3 align="center">Purpose Driven Software Engineer</h3>
+### Work
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shdwspde&label=Profile%20views&color=0e75b6&style=flat" alt="shdwspde" /> </p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vr-cave-gallery.vercel.app/#hall"><img src="assets/paris-hall.gif" alt="Walking the Paris 1900 Hall" width="100%"></a>
+<p><b><a href="https://github.com/ShdwSpde/du-bois-paris-hall">Du Bois Does Data: the Paris 1900 Hall</a></b><br>
+Walk into the 1900 Exposition hall and stand in front of the data portraits W.E.B. Du Bois and his Atlanta University students drew. WebXR, in a browser or a headset.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://ida-b-wells-living-archive.vercel.app"><img src="assets/ida-archive.gif" alt="Asking the Ida B. Wells Living Archive a question" width="100%"></a>
+<p><b><a href="https://github.com/ShdwSpde/living-archives">Living Archives</a></b><br>
+Ask Ida B. Wells, Du Bois or Garvey a question and get their own words back, with the book and chapter. Every quotation is checked against its source before you see it.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://garvey.radicalimagination.xyz/sam"><img src="assets/garvey-sam.gif" alt="Searching the Marcus Garvey Living Archive" width="100%"></a>
+<p><b><a href="https://github.com/ShdwSpde/garvey">The Marcus Garvey Living Archive</a></b><br>
+Garvey's words, the movement's photographs and documents, and his 1921 recordings, searchable in one place. With Dr. Jewell Humphrey and the Black Star Archive.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://black-star-fleet.vercel.app"><img src="assets/fleet.gif" alt="The Black Star Line fleet and the Yarmouth" width="100%"></a>
+<p><b><a href="https://black-star-fleet.vercel.app">The Replica Collection</a></b><br>
+To-scale replicas built in code from period records: Black Star Line ships you can run, cut open and take apart, every part tagged with its source.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://icedata.xyz"><img src="assets/watchtower.gif" alt="Project Watchtower" width="100%"></a>
+<p><b><a href="https://icedata.xyz">Project Watchtower</a></b><br>
+The cost of U.S. immigration enforcement, followed through budgets, detention and deportation data, every number tied to its source. Led by Julisa Esparza.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://spark.radicalimagination.xyz"><img src="assets/spark.gif" alt="Spark" width="100%"></a>
+<p><b><a href="https://github.com/ShdwSpde/spark-workshop-template">Spark</a></b><br>
+A Chief Agentic Officer: a team of AI agents, run through Claude Code, that keeps a studio's grants, curriculum, archives and reviews moving. Open template.</p>
+</td>
+</tr>
+</table>
 
-<p align="left"> <a href="https://twitter.com/mrmikespade" target="blank"><img src="https://img.shields.io/twitter/follow/mrmikespade?logo=twitter&style=for-the-badge" alt="mrmikespade" /></a> </p>
+### How we work
 
-- 🔭 I’m working on [Single Board Studio](https://www.singleboardstudio.xyz)
+- **Primary sources first.** Read the caption off the object; a catalog is a lead, not a fact.
+- **Show the seams.** Every replica part, room and quote says where it came from, or says it's our guess.
+- **People check it.** A cultural review signs off before anything about real history ships.
 
-- 🌱 I’m currently learning **Industrialized IoT, Machine Learning, AWS Network Infractructure, and Front-End Web Development**
-
-- 👯 I’m looking to collaborate on **using single board computers and sensors for environmental monitoring, and improving food safety, access and logistics**
-
-- 👨‍💻 All of my projects are available if you'd like to see my [portfolio](http://www.mspade.xyz)
-
-- 📝 I regularly write articles on [Hashnode](https://mspade.hashnode.dev/)
-
-- 💬 Ask me about **single board computing, AWS, and web3**
-
-- 📫 You can reach me at **mikespadeny@gmail.com**
-
-- 📄 Would you like to see my [Resume?](https://docs.google.com/document/d/1XkvK58jmueyVCBbSHzc_i4JJm8tlMJ0b/edit?usp=sharing&ouid=105555312527979987067&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I spent 10 months living in a CCC cabin with a woodfired stove and kerosene lamp in the woods of New Hampshire**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrmikespade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmikespade" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mikespade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikespade/" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.mikespade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.mikespade" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mspade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mspade" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shdwspde&show_icons=true&locale=en" alt="shdwspde" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shdwspde&" alt="shdwspde" /></p>
-
+[radicalimagination.xyz](https://radicalimagination.xyz) · [Instagram @imagination.radical](https://instagram.com/imagination.radical)
