@@ -1,6 +1,8 @@
-## Mike Spade
+<p align="center"><img src="assets/banner.jpg" alt="Radical Imagination. Mike Spade, founder, Queens. A people's art is the genesis of their freedom. Claudia Jones." width="100%"></p>
 
 I run **[Radical Imagination](https://radicalimagination.xyz)**, a cultural technology studio in Queens. We build places you can walk into, archives you can question, and machines you can take apart, all from primary sources: the scan, the register, the record. Every claim has a source, and every source gets a person checking it.
+
+**Recently:** Du Bois Does Data at the Oculus, World Trade Center, with CUNY's Public Interest Technology Lab (Juneteenth, June 19 to 21, 2026) · [Legacy Lectures](https://radicalimagination.xyz/legacy-lectures/), a six-session course on Marcus Garvey with the Black Star Archive (fall 2026)
 
 I also teach. By day I lead teaching and learning at [The Knowledge House](https://theknowledgehouse.org) in the Bronx.
 
@@ -44,6 +46,10 @@ A Chief Agentic Officer: a team of AI agents, run through Claude Code, that keep
 </td>
 </tr>
 </table>
+
+### More
+
+[Ghost Dollars](https://github.com/ShdwSpde/ghost-dollars), a map of what NYC's capital-spending data leaves out · [Du Bois Does Data notebooks](https://github.com/ShdwSpde/dubois-does-data-notebooks), open and Colab-ready · [Classroom lessons](https://github.com/ShdwSpde/dubois-does-data-lessons)
 
 ### How we work
 
